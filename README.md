@@ -5,6 +5,13 @@ Alfred 2 Workflow to easily add movies
 
 ![Workflow Preview](preview.png)
 
+
+[Download it here](http://we.tl/FVOZpHFLx6)
+
+
+Setup
+===================
+
 To setup you need to do `couch_set http://localhost:5050 YOUR_APIKEY_HERE` first.
 Your apikey can be found in the CouchPotato settings > General (advanced).
 
